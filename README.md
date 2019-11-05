@@ -42,7 +42,7 @@ We are going to use a sample schema given to use by MySQL.
 
 7. Double-click that database
 
-8. Open a new query and run `select * from actors;`
+8. Open a new query and run `select * from actor;`
 
 9. Did you see any data? If not that's ok. The schema is more important here
 
